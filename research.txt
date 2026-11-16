@@ -1,0 +1,23 @@
+List Resources:
+
+* https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/configure
+
+* https://mdblist.com/lists/snoak/
+* https://mdblist.com/lists/tvgeniekodi/
+* https://mdblist.com/lists/mdatum/
+* https://mdblist.com/lists/garycrawfordgc/
+
+* https://mdblist.com/toplists/
+* https://trakt.tv/search/lists
+* https://letterboxd.com/lists/
+
+
+-----------------------------------------------------------------------------------------------
+
+https://omni-help.github.io/
+
+Omni backup paths are stored here on Mac.
+~/Library/Containers/win.stkc.omni/Data/Documents/Backups
+
+Omni backup paths are stored here on iPhone/iPad:
+Files > On My iPhone > Omni > Backups
